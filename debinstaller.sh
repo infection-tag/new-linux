@@ -35,7 +35,7 @@ sudo add-apt-repository universe
 
 # gnome-tweaks
 echo "Installing gnome-tweaks..."
-sudo apt install gnome-tweak-tool
+sudo apt install gnome-tweaks
 
 # snap store
 echo "Installing the snap store..."
