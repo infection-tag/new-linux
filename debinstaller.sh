@@ -47,3 +47,7 @@ echo "set tabstop=4
 set shiftwidth=4
 set expandtab
 se nu" >> ~/.vimrc
+
+# git
+echo "Installing git..."
+sudo apt install git-all
