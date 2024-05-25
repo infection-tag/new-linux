@@ -41,4 +41,4 @@ Note: I will try to add a RHEL-based installer.
 * Snap Store
 * Gnome-tweaks
 
-It also adds some nice vim customizations.
+It also adds some nice vim customizations. The installations take up 268.32 MB of space on your drive. It works great on a bare-bones 4gb RAM 32gb storage linux box.
