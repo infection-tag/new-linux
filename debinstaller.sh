@@ -1,6 +1,6 @@
 echo "A network connection is required."
 echo "Niko's Installer, v.1.0.0"
-echo "This installation will take ~400mb of space"
+echo "This installation will take ~220mb of space"
 
 echo "Installing prerequisites and updating..."
 sudo apt-get update
