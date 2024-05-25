@@ -25,7 +25,7 @@ sudo yum curl # red-hat based
 To install, simply run:
 
 ```sh
-curl https://github.com/infection-tag/new-linux/debinstaller.sh # debian
+curl https://infection-tag.github.io/new-linux/debinstaller.sh -o debinstaller.sh && sudo bash debinstaller.sh # debian
 ```
 
 Note: I will try to add a RHEL-based installer.
