@@ -38,6 +38,7 @@ Note: I will try to add a RHEL-based installer.
 * Flathub (repo)
 * Universe (repo)
 * Git
+* Snap Store
 * Gnome-tweaks
 
 It also adds some nice vim customizations.
